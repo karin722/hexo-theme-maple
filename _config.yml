@@ -1,6 +1,6 @@
 # Header
 nav:
-  Posts: /archives
+  # Posts: /archives
   # Categories: /category
   # Tags: /tag
 
@@ -8,13 +8,13 @@ nav:
 favicon: /favicon.png
 
 # logo
-logo: /images/logo.svg
+logo: /images/logo.jpeg
 
 # links
 links:
-  Github: https://github.com/xbmlz
+  Github: https://github.com/karin722
   # ZhiHu:
-  # Twitter:
+  Twitter: https://mstdn.maud.io/@w_jb_
   # Weibo:
 
 # analytics
@@ -25,17 +25,17 @@ baidu_analytics:
 fancybox: true
 
 # mathjax
-mathjax: true
+mathjax: false
 
 # echarts
-echarts: true
+echarts: false
 
 # busuanzi
-busuanzi: true
+busuanzi: false
 
 # mermaid
 mermaid:
-  enable: true
+  enable: false
   # Available themes: default | dark | forest | neutral
   theme: default
 
